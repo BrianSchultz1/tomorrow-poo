@@ -1,4 +1,7 @@
 /home/aluno/NetBeansProjects/tomorrow-poo/src/main/java/com/mycompany/tomorrow/poo/conexao/Conexao.java
 /home/aluno/NetBeansProjects/tomorrow-poo/src/main/java/com/mycompany/tomorrow/poo/entity/Curso.java
+/home/aluno/NetBeansProjects/tomorrow-poo/src/main/java/com/mycompany/tomorrow/poo/view/TelaCurso.java
+/home/aluno/NetBeansProjects/tomorrow-poo/src/main/java/com/mycompany/tomorrow/poo/view/TelaPrincipal.java
 /home/aluno/NetBeansProjects/tomorrow-poo/src/main/java/com/mycompany/tomorrow/poo/app/App.java
 /home/aluno/NetBeansProjects/tomorrow-poo/src/main/java/com/mycompany/tomorrow/poo/dao/CursoDAO.java
+/home/aluno/NetBeansProjects/tomorrow-poo/src/main/java/com/mycompany/tomorrow/poo/bo/CursoBO.java
